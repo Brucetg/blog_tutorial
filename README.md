@@ -8,4 +8,9 @@ A Simple Blog With Python Django Framework
          Python 3.6.3
          Django 1.11.4
          
-         
+效果图：
+
+https://github.com/Brucetg/blog_tutorial/blob/master/Screenshot%20from%202018-03-07%2021-59-31.png
+
+
+参考： https://andrew-liu.gitbooks.io/django-blog/django_introduction.html
