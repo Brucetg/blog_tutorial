@@ -13,4 +13,6 @@ A Simple Blog With Python Django Framework
 ![Image text](https://raw.githubusercontent.com/Brucetg/blog_tutorial/master/Screenshot%20from%202018-03-07%2021-59-31.png)
 
 
+
+
 参考： https://andrew-liu.gitbooks.io/django-blog/django_introduction.html
