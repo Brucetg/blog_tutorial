@@ -41,9 +41,7 @@ INSTALLED_APPS = [
     'article',
 ]
 
-
-
-BOOTSTRAP_ADMIN_SIDEBAR_MENU = True
+#BOOTSTRAP_ADMIN_SIDEBAR_MENU=True
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
